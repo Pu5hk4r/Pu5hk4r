@@ -30,19 +30,40 @@ This is my coding playground where I experiment, learn, and share my work with t
 
 ## 🔥 Featured Projects
 
-### 🚀 Project 1: Awesome Web App  
-A web app that does XYZ. Built with **React**, **Node.js**, and **MongoDB**.  
+### 🚀 Project 1: PDf Chatbot (RAG)
+The PDF Chatbot is an AI-powered application that allows users to interact with PDF documents using natural language. It processes PDF files, extracts their content, and leverages a language model to provide context-aware responses to user queries about the document. Built with **Python**, **Langchain**, and **vector database**.  
 🖼️ *Preview:*  
-![Project 1 Screenshot](https://user-images.githubusercontent.com/your-image-link/project1.png)
+![Project 1 Screenshot](https://github.com/Pu5hk4r/PROJECT-PDF-CHAT-BOT/blob/main/pdf_bot.png)
 
 ---
 
-### 🛠 Project 2: Python CLI Tool  
-A Python-based tool for ABC. Features a CLI and integrates with APIs.  
+### 🛠 Project 2: Image Caption Generator 
+This project uses the Florence-2 transformer model to generate captions for uploaded images. With an intuitive Gradio web interface, users can upload images and receive contextually accurate captions in real time.
+
+  
 🖼️ *Preview:*  
-![Project 2 Screenshot](https://user-images.githubusercontent.com/your-image-link/project2.png)
+![Project 2 Screenshot](https://github.com/Pu5hk4r/PROJECT-IMAGE-CAPTION-GENERATION/blob/main/imageCaption.png)
 
 ---
+
+### 🛠 Project 3: Web Server Log Analytics
+This project uses **SQL**, **Pandas**, **Tableau**, **Pyspark** and **AWS**. 
+  
+🖼️ *Preview:*  
+![Project 2 Screenshot](https://github.com/Pu5hk4r/PROJECT-Web-Server-Log-Analytics-Pipline/blob/main/Dashboard1.png)
+
+---
+
+### 🛠 Project 4: Renewable Energy Generation Forecasting
+This project uses **SQL**, **Pandas**, **Tableau**, **Pyspark** and **MachineLearningModel**. 
+This project aims to forecast renewable energy generation using time series data from wind turbines. Leveraging machine learning techniques, it provides accurate predictions based on 30 days of historical wind turbine data.
+  
+🖼️ *Preview:*  
+![Project 2 Screenshot](https://github.com/Pu5hk4r/PROJECT-FORCASTING-WIND-ENERGY-GENERATION/blob/main/wind_energy_genration_prediction.png)
+
+---
+
+
 
 ## 📊 GitHub Stats
 
