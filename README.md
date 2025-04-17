@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Welcome Banner](https://user-images.githubusercontent.com/your-image-link/banner.png)
+![Welcome Banner](https://github.com/Pu5hk4r/Pu5hk4r/blob/main/1722102644181.jpg)
 
 # 👋 Welcome to Pu5hk4r's GitHub! 🚀
 
