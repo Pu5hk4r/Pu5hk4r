@@ -1,3 +1,80 @@
+<!-- Banner -->
+![Welcome Banner](https://user-images.githubusercontent.com/your-image-link/banner.png)
+
+# 👋 Welcome to Pu5hk4r's GitHub! 🚀
+
+Hi, I'm **Pu5hk4r** — a passionate developer who loves crafting code, solving problems, and building cool projects.  
+This is my coding playground where I experiment, learn, and share my work with the world. 🌍
+
+---
+
+## 📖 About Me
+
+- 💻 **Full-Stack Developer** with a knack for creating seamless user experiences  
+- 🌱 Currently working on **AI/ML** and exploring **Web3** technologies  
+- 🎯 **Goal**: Build impactful projects that make a difference  
+- ⚡ **Fun Fact**: I can debug code faster than I can brew coffee! ☕  
+
+---
+
+## 🛠️ Skills
+
+| **Category**  | **Technologies** |
+|---------------|------------------|
+| **Languages** | Python, JavaScript, TypeScript, C++ |
+| **Frameworks** | React, Node.js, Express, Django |
+| **Tools**     | Git, Docker, Postman, VS Code |
+| **Databases** | MongoDB, MySQL, Firebase |
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Project 1: Awesome Web App  
+A web app that does XYZ. Built with **React**, **Node.js**, and **MongoDB**.  
+🖼️ *Preview:*  
+![Project 1 Screenshot](https://user-images.githubusercontent.com/your-image-link/project1.png)
+
+---
+
+### 🛠 Project 2: Python CLI Tool  
+A Python-based tool for ABC. Features a CLI and integrates with APIs.  
+🖼️ *Preview:*  
+![Project 2 Screenshot](https://user-images.githubusercontent.com/your-image-link/project2.png)
+
+---
+
+## 📊 GitHub Stats
+
+![Pu5hk4r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pu5hk4r&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pu5hk4r&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+Let's chat about code, projects, or just geek out!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Hackathon Winner @ TechFest 2024  
+- 🏅 Published an Open Source NPM Package  
+- 🧠 Built a chatbot using OpenAI API and Flask  
+
+---
+
+> “Code is like poetry; it’s all about finding the right rhythm.”  
+
+Thanks for stopping by! Feel free to explore my repositories and drop a ⭐ if you like what you see! 😄
+
+
+
+
+
 ## 🛠️ Skills
 
 ### 💻 Languages
