@@ -22,7 +22,9 @@ This is my coding playground where I experiment, learn, and share my work with t
 | **Category**  | **Technologies** |
 |---------------|------------------|
 | **Languages** | Python, JavaScript, TypeScript, C++ |
-| **Frameworks** | React, Node.js, Express, Django |
+| **AI-Framework** | Tensorflow, Keras, Pytorch, Langchain, Spacy, LLM's, Transformers |
+|**Libraries** | Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn |
+| **Frameworks** |Flask, FastAPI, React, Node.js, Express, Django |
 | **Tools**     | Git, Docker, Postman, VS Code |
 | **Databases** | MongoDB, MySQL, Firebase |
 
