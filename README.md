@@ -32,14 +32,23 @@ This is my coding playground where I experiment, learn, and share my work with t
 
 ## 🔥 Featured Projects
 
-### 🚀 Project 1: PDf Chatbot (RAG)
+### 🚖 Real time  NYC Taxi Demand Prediction Pipeline
+> A full-stack real-time data pipeline for **predicting taxi demand across NYC** neighborhoods.  
+> Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
+> Automatic Orchestrate By Airflow Train model and predict at particular timr interval.
+🖼️ *Preview:*
+![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/PushkarProjectArchitecture.png)
+![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model1.png)
+![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model2.png)
+
+### 🚀 PDf Chatbot (RAG)
 The PDF Chatbot is an AI-powered application that allows users to interact with PDF documents using natural language. It processes PDF files, extracts their content, and leverages a language model to provide context-aware responses to user queries about the document. Built with **Python**, **Langchain**, and **vector database**.  
 🖼️ *Preview:*  
 ![Project 1 Screenshot](https://github.com/Pu5hk4r/PROJECT-PDF-CHAT-BOT/blob/main/pdf_bot.png)
 
 ---
 
-### 🛠 Project 2: Image Caption Generator 
+### 🛠 Image Caption Generator 
 This project uses the Florence-2 transformer model to generate captions for uploaded images. With an intuitive Gradio web interface, users can upload images and receive contextually accurate captions in real time.
 
   
@@ -48,7 +57,7 @@ This project uses the Florence-2 transformer model to generate captions for uplo
 
 ---
 
-### 🛠 Project 3: Web Server Log Analytics
+### 🛠 Web Server Log Analytics
 This project uses **SQL**, **Pandas**, **Tableau**, **Pyspark** and **AWS**. 
   
 🖼️ *Preview:*  
@@ -56,7 +65,7 @@ This project uses **SQL**, **Pandas**, **Tableau**, **Pyspark** and **AWS**.
 
 ---
 
-### 🛠 Project 4: Renewable Energy Generation Forecasting
+### 🛠 Renewable Energy Generation Forecasting
 This project uses **SQL**, **Pandas**, **Tableau**, **Pyspark** and **MachineLearningModel**. 
 This project aims to forecast renewable energy generation using time series data from wind turbines. Leveraging machine learning techniques, it provides accurate predictions based on 30 days of historical wind turbine data.
   
