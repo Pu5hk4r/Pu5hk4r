@@ -37,9 +37,7 @@ This is my coding playground where I experiment, learn, and share my work with t
 > Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
 > Automatic Orchestrate By Airflow Train model and predict at particular timr interval.
 🖼️ *Preview:*
-![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/PushkarProjectArchitecture.png)
-![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model1.png)
-![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/model2.png)
+![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/Animation.gif)
 
 ### 🚀 PDf Chatbot (RAG)
 The PDF Chatbot is an AI-powered application that allows users to interact with PDF documents using natural language. It processes PDF files, extracts their content, and leverages a language model to provide context-aware responses to user queries about the document. Built with **Python**, **Langchain**, and **vector database**.  
