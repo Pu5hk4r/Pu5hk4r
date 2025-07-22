@@ -38,12 +38,20 @@ This is my coding playground where I experiment, learn, and share my work with t
 ## 🔁 Data Flow Pipeline
 
 🟢 Kafka Producer streams data.
+
 🔶 Spark Streaming consumes and processes it.
+
 🧮 Feature Engineering on Spark.
+
 🤖 ML Model predicts demand.
+
 📣 Predictions go to Kafka topic.
+
 📊 Dash shows demand.
+
 🗃️ PostgreSQL stores for analysis.
+
+🧮 Airflow Scheduled ML Training.
 
 > A full-stack real-time data pipeline for **predicting taxi demand across NYC** neighborhoods.  
 > Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
