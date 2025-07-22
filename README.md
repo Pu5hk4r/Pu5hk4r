@@ -66,7 +66,9 @@ The PDF Chatbot is an AI-powered application that allows users to interact with 
 
 ---
 ### Brain Tumour Detection Web App
+
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e452ef90-35db-44a1-8c0f-199ec8b762ec" />
+
 This is a deep learning-based Flask web application for detecting brain tumors in MRI images. It uses a pre-trained CNN model (braintumor_binary.h5) to classify images as either Tumor Detected or No Tumor Detected, and stores patient records and predictions in MongoDB Atlas.
 🖼️ *Preview:*  
 ![](https://github.com/Pu5hk4r/BrainTumourDetection/blob/main/Assets/AnimationBrain-min.gif)
