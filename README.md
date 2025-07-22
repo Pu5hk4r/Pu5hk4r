@@ -34,20 +34,15 @@ This is my coding playground where I experiment, learn, and share my work with t
 
 ### 🚖 Real time  NYC Taxi Demand Prediction Pipeline
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a03c9997-e5fa-4040-b086-ddb7341fd6dd" />
+
 ## 🔁 Data Flow Pipeline
 
 🟢 Kafka Producer streams data.
-
 🔶 Spark Streaming consumes and processes it.
-
 🧮 Feature Engineering on Spark.
-
 🤖 ML Model predicts demand.
-
 📣 Predictions go to Kafka topic.
-
-📊 Streamlit shows demand.
-
+📊 Dash shows demand.
 🗃️ PostgreSQL stores for analysis.
 
 > A full-stack real-time data pipeline for **predicting taxi demand across NYC** neighborhoods.  
