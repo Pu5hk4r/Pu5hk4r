@@ -33,6 +33,8 @@ This is my coding playground where I experiment, learn, and share my work with t
 ## 🔥 Featured Projects
 
 ### 🚖 Real time  NYC Taxi Demand Prediction Pipeline
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a03c9997-e5fa-4040-b086-ddb7341fd6dd" />
+
 > A full-stack real-time data pipeline for **predicting taxi demand across NYC** neighborhoods.  
 > Designed for live ingestion and historical replay, it helps visualize traffic hot zones and optimize fleet allocation.
 > Automatic scheduled job of ML_model train at particular time interval.
