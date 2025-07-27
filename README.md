@@ -61,6 +61,8 @@ This is my coding playground where I experiment, learn, and share my work with t
 
 
 ### 🏦Smart Bank Loan Management & Risk Prediction System
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f5ac7da7-2845-4f6c-933f-4f8fa4456a81" />
+
 A full-stack application for bank loan applications, risk prediction using ML, and admin management.
 User registration/login with JWT auth and roles (user/admin).
 Loan application form with real-time installment/interest calculation.
