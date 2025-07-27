@@ -59,6 +59,16 @@ This is my coding playground where I experiment, learn, and share my work with t
 🖼️ *Preview:*
 ![](https://github.com/Pu5hk4r/taxi-demand-pipeline/blob/main/assets/Animation.gif)
 
+
+### 🏦Smart Bank Loan Management & Risk Prediction System
+A full-stack application for bank loan applications, risk prediction using ML, and admin management.
+User registration/login with JWT auth and roles (user/admin).
+Loan application form with real-time installment/interest calculation.
+Admin dashboard for approving/rejecting loans, viewing stats and risk !.
+🖼️ *Preview:*
+![](https://github.com/Pu5hk4r/SmartBankLoanManagementSystem/blob/main/assets/AnimationAdmin.gif)
+
+
 ### 🚀 PDf Chatbot (RAG)
 The PDF Chatbot is an AI-powered application that allows users to interact with PDF documents using natural language. It processes PDF files, extracts their content, and leverages a language model to provide context-aware responses to user queries about the document. Built with **Python**, **Langchain**, and **vector database**.  
 🖼️ *Preview:*  
