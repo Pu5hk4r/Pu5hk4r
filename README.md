@@ -114,10 +114,6 @@ This project aims to forecast renewable energy generation using time series data
 
 
 
-## 📊 GitHub Stats
-
-![Pu5hk4r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pu5hk4r&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pu5hk4r&layout=compact&theme=tokyonight)
 
 ---
 
