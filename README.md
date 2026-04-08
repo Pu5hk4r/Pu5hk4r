@@ -9,27 +9,20 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```python
-class Pushkar:
-    location     = "Delhi, India 🇮🇳"
-    role         = "Full Stack Python Developer | AI/ML Engineer"
-    email        = "pushstack25@gmail.com"
+**Full Stack Python Developer & AI/ML Engineer** based in Delhi, India 🇮🇳
 
-    currently_building = "CODEREVIEW-AI-AGENT — LangGraph + Groq + pgvector + GCP"
-    interests          = ["Agentic AI", "RAG Systems", "Data Engineering", "LLMs"]
+I build production-grade AI systems and data pipelines — from LLM-powered agents to real-time streaming infrastructure. My work sits at the intersection of **backend engineering**, **machine learning**, and **agentic AI**.
 
-    stack = {
-        "ai_ml"     : ["LangGraph", "Groq", "LLaMA 3.1 70B", "PyTorch", "TensorFlow", "RAG", "pgvector"],
-        "backend"   : ["FastAPI", "Flask", "async SQLAlchemy", "PostgreSQL", "MongoDB"],
-        "data_eng"  : ["Apache Kafka", "Apache Spark", "Airflow", "PySpark"],
-        "frontend"  : ["React", "Node.js", "TypeScript"],
-        "devops"    : ["Docker", "GCP Cloud Run", "GitHub Actions"],
-    }
+- 🔭 Currently building **CODEREVIEW-AI-AGENT** — a LangGraph stateful agent that reviews GitHub PRs using Groq + LLaMA 3.1 70B, deployed on GCP Cloud Run
+- 🤖 Experienced in **RAG systems**, **LLM integration**, and **multi-step AI agents** using LangGraph & LangChain
+- ⚙️ Strong in **data engineering** — real-time pipelines with Kafka, Spark, and Airflow
+- 🌐 Full stack proficiency: **FastAPI / Flask** backends + **React** frontends + **PostgreSQL / MongoDB** databases
+- 🚀 Comfortable with end-to-end deployment: **Docker + GCP Cloud Run**
+- 🏆 Hackathon Winner @ TechFest 2024
 
-    fun_fact = "I build AI agents that review code better than most humans 🤖"
-```
+📬 **Reach me:** [pushstack25@gmail.com](mailto:pushstack25@gmail.com) · [LinkedIn](https://linkedin.com/in/pushkar25)
 
 ---
 
